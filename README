@@ -1,0 +1,7 @@
+This is an example Android application demonstrating the use of the Sensis Search API.
+
+The project targets Android version 1.5. 
+
+It is a very basic example, with no optimisation or tests.
+
+Be sure to enter your API Key in APIClient.java
