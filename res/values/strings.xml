@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sensis Search API Android Example</string> 
+   
+    <string name="hint_query">keywords</string>
+    <string name="hint_location">location</string>
+    
+    <string name="label_query">find</string>
+    <string name="label_location">in</string>
+    
+    <string name="label_search">Search</string>
+    
+</resources>
